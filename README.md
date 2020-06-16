@@ -1,6 +1,6 @@
-yii2-thumbnail
-==============
-Widget Thumbnail Bootstrap for Yii Framework 2
+yii2-thumbnainl
+===============
+Widget Thumbnail bootstrap for Yii Framework 2
 
 Installation
 ------------
@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist https://github.com/vascossino/yii2-thumbnail "*"
+php composer.phar require --prefer-dist alireza/yii2-thumbnail "*"
 ```
 
 or add
 
 ```
-https://github.com/vascossino/yii2-thumbnail": "*"
+"alireza/yii2-thumbnail": "*"
 ```
 
 to the require section of your `composer.json` file.

@@ -1,6 +1,6 @@
 {
-    "name": "https://github.com/vascossino/yii2-thumbnail",
-    "description": "Widget Thumbnail Bootstrap for Yii Framework 2",
+    "name": "alireza/yii2-thumbnail",
+    "description": "Widget Thumbnail bootstrap for Yii Framework 2",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","thumbnail","bootstrap"],
     "license": "MIT",
