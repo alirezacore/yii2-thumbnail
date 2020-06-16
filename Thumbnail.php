@@ -1,6 +1,6 @@
 <?php
 
-namespace tegarbudi\bs;
+namespace alireza\bs;
 
 use \yii\bootstrap\Widget;
 

@@ -1,13 +1,13 @@
 {
-    "name": "tegarbudi/yii2-thumbnail",
+    "name": "https://github.com/vascossino/yii2-thumbnail",
     "description": "Widget Thumbnail Bootstrap for Yii Framework 2",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","thumbnail","bootstrap"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Tegar Budi Santoso",
-            "email": "tegarbudisantoso184@gmail.com"
+            "name": "Ali Reza",
+            "email": "alirezacore99@gmail.com"
         }
     ],
     "require": {
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "tegarbudi\\bs\\": ""
+            "alireza\\bs\\": ""
         }
     }
 }
