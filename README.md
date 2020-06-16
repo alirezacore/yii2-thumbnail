@@ -10,7 +10,7 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist tegarbudi/yii2-thumbnail "*"
+php composer.phar require --prefer-dist https://github.com/vascossino/yii2-thumbnail "*"
 ```
 
 or add
